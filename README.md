@@ -1,11 +1,20 @@
 ### Hi there 👋
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stavspektor)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stavspektor&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stavspektor&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+- I'm Stav!
+- 🎓 I'm a 3rd year student in Information Systems Engineering at the Technion
+- 
+<!-- I'm into manipulating and exploring data 📊
+I'm into AI and ML 🔬
+And I'm into learning new things every single day!🙌🏽
+
+🔭 I’m currently working on my Bs.c in Information Systems Engineering
+
+🐍 I’m currently working with Python
+-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stavspektor&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stavspektor&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stavspektor&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
