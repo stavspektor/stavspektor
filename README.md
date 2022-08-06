@@ -4,7 +4,7 @@
 
 - I'm Stav!
 - 🎓 I'm a 3rd year student in Information Systems Engineering at the Technion
-- 
+
 <!-- I'm into manipulating and exploring data 📊
 I'm into AI and ML 🔬
 And I'm into learning new things every single day!🙌🏽
