@@ -3,7 +3,7 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stavspektor)](https://github.com/anuraghazra/github-readme-stats) -->
 
 - 😄 I'm Stav!
-- 🎓 I'm a 3rd year Information Systems engineering student at the Technion
+- 🎓 I'm an Information Systems engineering graduate (Technion)
 
 <!-- I'm into manipulating and exploring data 📊
 I'm into AI and ML 🔬
